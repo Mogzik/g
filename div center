@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Wyśrodkowany blok z ramką</title>
+  </head>
+<body>
+	<div class="center">
+		<h1>To jest wyśrodkowany blok z ramką</h1>
+		<p>Ten blok ma szerokość 50% i jest wyśrodkowany na ekranie. Ma również czarną ramkę i wewnętrzne marginesy 20 pikseli.</p>
+	</div>
+</body>
+</html>
