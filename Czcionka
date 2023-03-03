@@ -1,0 +1,28 @@
+<a href="strony/inne-strona.html">Link do innej strony</a>
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+} 
+
+body {
+  color: #333;
+} 
+
+h1 {
+  color: red;
+} 
+
+p {
+  color: rgb(255, 0, 0);
+} 
+
+span {
+  color: hsl(120, 100%, 50%);
+}
+p {
+  font-size: 16px; /* ustawia rozmiar czcionki dla paragrafu na 16 pikseli */
+} 
+
+h1 {
+  font-size: 24px; /* ustawia rozmiar czcionki dla nagłówka H1 na 24 piksele */
+}
