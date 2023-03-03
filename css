@@ -26,3 +26,12 @@ p {
 h1 {
   font-size: 24px; /* ustawia rozmiar czcionki dla nagłówka H1 na 24 piksele */
 }
+
+
+body {
+  background-color: red;
+} 
+
+body {
+  background-image: url('adres-obrazka.jpg');
+}
